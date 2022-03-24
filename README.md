@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit-dhiman
-- 👀 I’m interested in just learnig the basics and doing small little projects.
-- 🌱 I’m currently learning Python, web development, simulation.
+- 👀 I’m interested in just learnig the basics and doing little projects.
+- 🌱 I’m currently learning Python, web development, and everything else I find interesting.
 - 📫 How to reach me dhimanankit305@gmail.com
 
 <!---
